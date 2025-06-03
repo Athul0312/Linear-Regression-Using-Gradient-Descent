@@ -32,4 +32,4 @@ Though small in scale, this project was crucial for building hands-on understand
 - Gradients
 - Model convergence
 
-It laid the foundation for more advanced model tuning in later projects.
+It gave me the confidence to attempt the Manual KNN project, evne though the logic is very different there.
