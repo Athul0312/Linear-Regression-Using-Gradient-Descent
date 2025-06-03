@@ -20,7 +20,7 @@ A from-scratch implementation of simple linear regression using manual gradient 
 - Final learned model:    y = 0.96x + 3.16
 - Visualized predictions vs actual data points on the test set
 - Visually this plot is VERY slightly off.
-- The initial conditions in this notebook [5,10] are pretty far from the actual final coefficients. I kept it as it is just to see how many iterations it would take to converge from such... unforgiving, for the lack of a better word, initial conditions. 
+- The initial conditions in this notebook [5,10] are pretty far from the actual final coefficients. I kept it as it is just to see how many iterations it would take to converge from such... let's say, unforgiving, initial conditions. 
 - We get MUCH closer plots for the same initial conditions, when allowed to run close to 50000 iterations, but my laptop expressed great anguish the last time I did that.
 
 ---
